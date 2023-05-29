@@ -1,12 +1,14 @@
-### Hi there 👋
-
+![06-battle-programmer-shirase-anime](https://github.com/InterVam/InterVam/assets/60117286/d7801b27-3fd8-4508-87fd-3ec6a29ef3b5)<br><br>
+🔭 I’m currently working on P2P Smart Home Security System (Graduation Project)<br>
+🌱 I’m currently learning Nodejs , Peerjs and React Native<br>
+📫 How to reach me: yfathi2008@gmail.com<br>
 <!--
 **InterVam/InterVam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔭 I’m currently working on P2P Smart Home Security System 
+- 🌱 I’m currently learning Nodejs , Peerjs and React Native
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
