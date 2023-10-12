@@ -1,5 +1,5 @@
 ![06-battle-programmer-shirase-anime](https://github.com/InterVam/InterVam/assets/60117286/d7801b27-3fd8-4508-87fd-3ec6a29ef3b5)<br><br>
-🔭 I’m currently working on My Personal Websit<br>
+🔭 I’m currently working on My Personal Website<br>
 🌱 I’m currently learning Nodejs and React<br>
 📫 How to reach me: yfathi2008@gmail.com<br>
 <!--
