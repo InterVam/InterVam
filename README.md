@@ -1,5 +1,5 @@
 ![06-battle-programmer-shirase-anime](https://github.com/InterVam/InterVam/assets/60117286/d7801b27-3fd8-4508-87fd-3ec6a29ef3b5)<br><br>
-🔭 I’m currently working on getting a job T_T<br>
+🔭 I’m currently working on being a better human<br>
 🌱 I’m currently learning Agentic AI and LLMs<br>
 📫 How to reach me: yfathi2008@gmail.com<br>
 <!--
